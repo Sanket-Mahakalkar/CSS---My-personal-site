@@ -53,14 +53,14 @@ hr{
 
 .bottom-cloud{
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 40%;
 }
 
 .top-cloud{
   position: absolute;
-  right: 350px;
-  top: 40px;
+  right: 21%;
+  top: 5%;
 }
 
 .code-img{
